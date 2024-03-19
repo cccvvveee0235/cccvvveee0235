@@ -2,6 +2,7 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [brief introduction]
+
 Over the past four years as a Security Operations Center (SOC) Analyst, I have honed my skills in identifying, investigating, and mitigating cybersecurity threats. My experience encompasses a broad range of responsibilities, from monitoring security events and alerts in real-time using advanced SIEM (Security Information and Event Management) tools, to conducting detailed analysis to understand the nature and scope of threats.
 <!--
 **cccvvveee0235/cccvvveee0235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
